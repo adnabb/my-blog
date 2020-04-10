@@ -178,7 +178,7 @@ theme = "LoveIt"
     # Mix = true
   # 评论系统设置
   [params.comment]
-    enable = true
+    enable = false
     # Disqus 评论系统设置 (https://disqus.com/)
     [params.comment.disqus]
       # LoveIt   v0.1.1
@@ -188,14 +188,14 @@ theme = "LoveIt"
     # Gitalk 评论系统设置 (https://github.com/gitalk/gitalk)
     [params.comment.gitalk]
       # LoveIt   v0.1.1
-      enable = true
+      enable = false
       owner = ""
       repo = ""
       clientId = ""
       clientSecret = ""
     # Valine 评论系统设置 (https://github.com/xCss/Valine)
     [params.comment.valine]
-      enable = true
+      enable = false
       appId = ""
       appKey = ""
       placeholder = "Your comment ..."
@@ -209,7 +209,7 @@ theme = "LoveIt"
       recordIP = true
     # Facebook 评论系统设置 (https://developers.facebook.com/docs/plugins/comments)
     [params.comment.facebook]
-      enable = true
+      enable = false
       width = "100%"
       numPosts = 10
       appId = ""
