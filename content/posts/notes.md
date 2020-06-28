@@ -1,7 +1,7 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
-lastmod: {{ .Date }}
+title: "其他笔记"
+date: 2020-04-22T20:00:33+08:00
+lastmod: 2020-04-22T20:00:33+08:00
 draft: false
 author: "陈诗雨"
 authorLink: "http://www.chenshiyu.com.cn/"
@@ -32,9 +32,13 @@ comment: true
 
 ---
 
-　　[]()
+　　[测试驱动开发，教你玩转event hub](https://www.yuque.com/u548790/notes/uglfqy)
 
-　　[]()
+　　[实现一个简单的命令行的翻译器](https://www.yuque.com/u548790/notes/aiwvup)
+
+　　[基于vue的简单npm包的实现](https://www.yuque.com/u548790/notes/shi8m3)
+
+　　[搭建自己的私有npm库](https://www.yuque.com/u548790/notes/xbwmls)
   
 
 > 特别说明：物尽其用，我把自己的文章交给更成熟的**语雀**进行保管，点击下面链接会进入阿里的语雀的页面,请不要担心。
