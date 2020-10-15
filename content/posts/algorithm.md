@@ -10,10 +10,10 @@ license: ""
 
 tags: ['算法入门']
 categories: ['算法入门']
-hiddenFromHomePage: false
+hiddenFromHomePage: true
 
-featuredImage: "/images/cat.png"
-featuredImagePreview: "/images/cat.png"
+featuredImage: ""
+featuredImagePreview: ""
 
 toc: false
 autoCollapseToc: true

@@ -10,10 +10,10 @@ license: ""
 
 tags: ['网站', '博客', 'nginx', '新人']
 categories: ['前端']
-hiddenFromHomePage: false
+hiddenFromHomePage: true
 
-featuredImage: "/images/wood.png"
-featuredImagePreview: "/images/wood.png"
+featuredImage: ""
+featuredImagePreview: ""
 
 toc: false
 autoCollapseToc: true

@@ -10,10 +10,10 @@ license: ""
 
 tags: ['学习笔记', '前端', 'vue']
 categories: ['前端']
-hiddenFromHomePage: false
+hiddenFromHomePage: true
 
-featuredImage: "/images/rabbit.png"
-featuredImagePreview: "/images/rabbit.png"
+featuredImage: ""
+featuredImagePreview: ""
 
 toc: false
 autoCollapseToc: true

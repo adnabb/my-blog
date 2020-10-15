@@ -314,7 +314,7 @@ theme = "LoveIt"
 # 作者信息
 [author]
   name = "陈诗雨"
-  link = "http://www.chenshiyu.com.cn/"
+  link = "https://chenshiyu.com.cn/myself/"
 
 # 网站地图信息
 [sitemap]
@@ -365,16 +365,17 @@ theme = "LoveIt"
     title = ""
     weight = 1
   [[menu.main]]
-    identifier = "tags"
-    pre = ""
-    name = "标签"
-    url = "/tags/"
-    title = ""
-    weight = 2
-  [[menu.main]]
     identifier = "categories"
     pre = ""
     name = "分类"
     url = "/categories/"
     title = ""
+    weight = 2
+[[menu.main]]
+    identifier = "myself"
+    pre = ""
+    name = "关于我"
+    url = "/myself/"
+    title = ""
     weight = 3
+
